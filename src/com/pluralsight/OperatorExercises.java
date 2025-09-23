@@ -2,6 +2,9 @@ package com.pluralsight;
 
 public class OperatorExercises {
     public static void main(String[] args) {
+
+        //10 Game-Themed Java expressions (not all of these problems (including
+        // the word problems below these) need to be completed)
         // 1) Coin Pouch
         int a = 4, b = 6;
         System.out.println(a++ + ++b); // My Guess: 4 + 7 = 11
@@ -46,7 +49,7 @@ public class OperatorExercises {
         int A = 5, B = 3, C = 2;
         System.out.println(A++ * --B + C++ / B); // My Guess: (5 * 2) + (2 / 2) = 11
 
-        //🎲 Game-Themed Java Exercises (Operators & Data Types) (not all need to be completed)
+        //🎲 Game-Themed Java Exercises (Operators & Data Types)
         //***Easy (warm-ups)***
 
         //1. Counting Coins A player collects 137 gold coins. Each bag can hold 20 coins.
