@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public class VariablesExercise {
 
     public static void main(String[] args) {
