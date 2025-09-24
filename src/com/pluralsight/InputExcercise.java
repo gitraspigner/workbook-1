@@ -2,7 +2,7 @@ package com.pluralsight;
 import java.util.Scanner;
 
 
-public class miniInputExcercise {
+public class InputExcercise {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("What is your favorite animal?: ");
