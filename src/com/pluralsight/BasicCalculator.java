@@ -6,14 +6,11 @@ import java.util.Scanner;
 public class BasicCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // this version of this program currently only does multiplication
-        // other operators will be added later
         System.out.println("Welcome to the integer-specific calculator (with a decimal result).");
         System.out.print("Enter the first number: ");
         int n1 = scanner.nextInt();
         System.out.print("Enter the second number: ");
         int n2 = scanner.nextInt();
-        //logic for operator input and calculation will go here ***delete this line when done
         System.out.print("""
                 Possible calculations:
                 (A)dd
@@ -26,7 +23,7 @@ public class BasicCalculator {
         String operatorInput = scanner.nextLine().toUpperCase(); //string to hold user input
         double result;
         String operatorString = ""; //string to hold operator to be printed in result expression
-        if (Objects.equals(operatorInput, "A")) { //use charat 0 and touppercase
+        if (Objects.equals(operatorInput, "A")) {
             result = n1 + n2;
             operatorString = "+";
         } else if (Objects.equals(operatorInput, "S")){
