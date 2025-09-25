@@ -31,7 +31,7 @@ public class SandwichShop {
 
 
         double sandwichPrice = 0.0;
-        double discountMultiplier = 0.0;
+        double discountMultiplier;
 
         if (sandwichSize == 1) {
             sandwichPrice = 5.45;
