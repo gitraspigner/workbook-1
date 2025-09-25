@@ -2,6 +2,13 @@ package com.pluralsight;
 
 import java.util.Scanner;
 
+/**
+ * A calculator that accepts 2 integers and an operator (supporting addition, subtraction,
+ * multiplication, and division and displays the expression and result of the requested
+ * calculation.
+ *
+ * @author Ravi Spigner
+ */
 public class BasicCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
