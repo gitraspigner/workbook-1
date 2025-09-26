@@ -54,5 +54,6 @@ public class BasicCalculator {
         }
         System.out.println("Result: ");
         System.out.println(n1 + " " + operatorString + " " + n2 + " = " + result);
+        scanner.close();
     }
 }

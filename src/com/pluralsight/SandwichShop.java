@@ -61,5 +61,6 @@ public class SandwichShop {
         System.out.printf("The cost of your sandwich is: $%.2f%n", totalSandwichPrice);
         System.out.println("Enjoy your tasty treat! Please come again!");
         System.out.println("(Er- I mean, run this program again.)");
+        scanner.close();
     }
 }

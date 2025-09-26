@@ -15,6 +15,6 @@ public class InputExcercise {
         System.out.println("Your favorite animal is a: " + favoriteAnimal + ", the first tool " +
                 "that comes to mind is a: " + firstTool + ", and " + bdayNumber + " is the day " +
                 "you were born.");
-
+        input.close();
     }
 }
