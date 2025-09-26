@@ -1,7 +1,8 @@
 package com.pluralsight;
 
 /**
- * *******Add program description here******
+ * Exercises to test my knowledge of methods.
+ * Program prints an RPG-style story to the console.
  *
  * @author Ravi Spigner
  */
