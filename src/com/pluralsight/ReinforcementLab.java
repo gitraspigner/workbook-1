@@ -6,7 +6,7 @@ import java.util.Scanner;
  * These are exercises to reinforce my understanding of some of the concepts covered so far,
  * including: Scanner, switch, the Math library, and the ternary operator.
  * Link to specification for exercises:
- * https://github.com/BrightBoost/learningjava/blob/main/exercises/reinforcement-lesson.md
+ * <a href="https://github.com/BrightBoost/learningjava/blob/main/exercises/reinforcement-lesson.md">...</a>
  *
  * @author Ravi Spigner
  */
@@ -60,7 +60,6 @@ public class ReinforcementLab {
         System.out.print("Please enter your name: ");
         return scanner.nextLine();
     }
-
     //part of step 3
     public static int getAge() {
         System.out.print("Please enter your age as a whole number: ");
@@ -80,7 +79,6 @@ public class ReinforcementLab {
     public static void personalizedMessage(String name, int age) {
         System.out.println("Your name is " + name + " and you are " + age + " years old.");
     }
-
     //step 7
     public static void isNameAlice(String name) {
         if (name.equalsIgnoreCase("Alice")) {
