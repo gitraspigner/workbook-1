@@ -15,7 +15,7 @@ The majority of the exercise writeups can be found [here](https://github.com/Bri
 within the directory: **exercises \ week 1**. <br>
 The workbook (PDF) containing most of the exercises cannot be uploaded due to Pluralsight ownership rights. <br>
 
-##### 📚 Topics covered include:<br>
+##### *Topics covered include:*<br>
 - Basic Java Syntax
   - Data Types
   - Variables
