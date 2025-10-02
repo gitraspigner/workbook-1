@@ -10,7 +10,7 @@
 | ![Status](https://img.shields.io/badge/status-inactive-lightgrey)| 09/23/2025 - 09/29/2025|
 
 ### 📝 Description
-Contains a collection of starter-level java exercises. <br>
+Contains a collection of my starter-level java exercise solutions from week 1. <br>
 The majority of the exercise writeups can be found [here](https://github.com/BrightBoost/learningjava) (given that the repo is still active) <br>
 within the directory: **exercises \ week 1**. <br>
 The workbook (PDF) containing most of the exercises cannot be uploaded due to Pluralsight ownership rights. <br>
