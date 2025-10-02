@@ -34,8 +34,7 @@ The workbook (PDF) containing most of the exercises cannot be uploaded due to Pl
 [Click Here](https://github.com/gitraspigner/workbook-1/commits/master)
 
 #### 💭 My Thoughts
-When I attended UW Seattle (and finished part of my *only-90%-completed bachelor's degree* which the rest was at UW Bothell) the majority of my <br>
-coursework completed was in Java, given that the school primarily trained undergrads as backend developers and engineers. <br>
+When I attended UW Seattle (and finished part of my *only-90%-completed bachelor's degree* which the rest was at UW Bothell) the majority of my coursework completed was in Java, given that the school primarily trained undergrads as backend developers and engineers. <br>
 Therefore, the majority of this coursework I found to function mostly as a recap. But I forgot some of the things I had learned so it was a good recap.
 
 ### 🔖 Citation
