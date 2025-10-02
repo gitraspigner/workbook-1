@@ -19,7 +19,7 @@ Topics include: <br>
  - Data Types
  - Variables
 - Operators and Expressions
- - String Concatenation
+-  String Concatenation
  - Java's Math Class
  - Casting, Narrowing, & Widening (between data types)
 - Writing to the Screen and Reading from the Keyboard
