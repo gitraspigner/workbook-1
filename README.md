@@ -11,8 +11,8 @@
 09/23/2025 - 09/29/2025
 
 
-| #### Active/Inactive                            | #### Active Dates                                |
-|------------------------------------------------|-------------------------------------------------------------------|
+| Active/Inactive | Active Dates |
+| --- | --- |
 | ![Status](https://img.shields.io/badge/status-inactive-lightgrey)| 09/23/2025 - 09/29/2025|
 
 
