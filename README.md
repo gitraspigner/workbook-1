@@ -1,5 +1,5 @@
 # Year Up United / LTCA Java Workbook 1
-##Taught By Maaike Van Putten
+## Taught By Maaike Van Putten
 
 -Active/Inactive
 -Tools Used
