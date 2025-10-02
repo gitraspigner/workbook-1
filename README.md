@@ -16,18 +16,18 @@ within the directory: **exercises \ week 1**. <br>
 The workbook (PDF) containing most of the exercises cannot be uploaded due to Pluralsight ownership rights. <br>
 Topics include: <br>
 - Basic Java Syntax
- - Data Types
- - Variables
+  - Data Types
+  - Variables
 - Operators and Expressions
--  String Concatenation
- - Java's Math Class
- - Casting, Narrowing, & Widening (between data types)
+  - String Concatenation
+  - Java's Math Class
+  - Casting, Narrowing, & Widening (between data types)
 - Writing to the Screen and Reading from the Keyboard
- - Java's Scanner Class
+  - Java's Scanner Class
 - Conditionals and Methods
- - If, Else If, Else statements
- - Static Methods
- - Switch statements
+  - If, Else If, Else statements
+  - Static Methods
+  - Switch statements
 
 #### Find Commits History Here
 [Click Here](https://github.com/gitraspigner/workbook-1/commits/master)
