@@ -15,7 +15,7 @@ The majority of the exercise writeups can be found [here](https://github.com/Bri
 within the directory: **exercises \ week 1**. <br>
 The workbook (PDF) containing most of the exercises cannot be uploaded due to Pluralsight ownership rights. <br>
 Topics include: <br>
--Basic Java Syntax
+- Basic Java Syntax
   - Data Types
   - Variables
 - Operators and Expressions
@@ -25,7 +25,7 @@ Topics include: <br>
 - Writing to the Screen and Reading from the Keyboard
   - Java's Scanner Class
 - Conditionals and Methods
-  - If, Else If, Else statements
+  - If, Else, & Else If statements
   - Static Methods
   - Switch statements
 
