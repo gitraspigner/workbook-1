@@ -1,4 +1,4 @@
-# Year Up United / Pluralsight Java Workbook 1
+# Year Up United / Pluralsight - Java Workbook 1
 ## Course Taught By: Maaike Van Putten
 
 ### 🛠️ Tools Used
