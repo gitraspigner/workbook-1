@@ -14,7 +14,6 @@ Contains a collection of starter-level java exercises. <br>
 The majority of the exercise writeups can be found [here](https://github.com/BrightBoost/learningjava) (given that the repo is still active) <br>
 within the directory: **exercises \ week 1**. <br>
 The workbook (PDF) containing most of the exercises cannot be uploaded due to Pluralsight ownership rights. <br>
----------
 
 Topics covered include: <br>
 - Basic Java Syntax
