@@ -11,8 +11,8 @@
 
 #### Description
 Contains a collection of starter-level java exercises. <br>
-(If still active) The majority of the exercise writeups can be found [here](https://github.com/BrightBoost/learningjava) <br>
-within the directory: exercises\week 1.
+The majority of the exercise writeups can be found [here](https://github.com/BrightBoost/learningjava) (given that the repo is still active) <br>
+within the directory: **exercises \ week 1**. The workbook containing most of the exercises cannot be uploaded due to ownership rights. <br>
 
 #### Find Commits History Here
 [Click Here](https://github.com/gitraspigner/workbook-1/commits/master)
