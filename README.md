@@ -41,5 +41,5 @@ Therefore, the majority of this coursework I found to function mostly as a recap
 I wrote this README.md, but I did indeed use ChatGPT to give my initial framework and to learn markdown formatting. Therefore here is an APA Style Citation for it:  <br>
 OpenAI. (2025). ChatGPT (Oct 1 version) [Large language model]. https://chatgpt.com/ <br>
 
-*I have to give credit where it's due, right?*
+*I have to give credit where it's due, right?* <br>
 **Last Edited: 10/01/2025
