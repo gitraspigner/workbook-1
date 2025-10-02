@@ -1,15 +1,13 @@
-# Year Up United / LTCA Java Workbook 1
-## Taught By Maaike Van Putten
+## Year Up United / LTCA Java Workbook 1
+### Taught By Maaike Van Putten
 
+#### Tools Used
 ![Java](https://img.shields.io/badge/language-Java-blue.svg)
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ-orange)
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+#### Active/Inactive
+![Status](https://img.shields.io/badge/status-inactive-lightgrey)
 
-
-
--Active/Inactive
--Tools Used
 
 
 -Description
