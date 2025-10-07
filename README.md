@@ -35,7 +35,10 @@ The workbook (PDF) containing most of the exercises cannot be uploaded due to Pl
 
 ### 💭 My Thoughts
 When I attended UW Seattle (and finished part of my *only-90%-completed bachelor's degree* which the rest was at UW Bothell) the majority of my coursework completed was in Java, given that the school primarily trained undergrads as backend developers and engineers. <br>
-Therefore, the majority of this coursework I found to function mostly as a recap. But I forgot some of the things I had learned so it was a good recap.
+Therefore, the majority of this coursework I found to function mostly as a recap. But I forgot some of the things I had learned so it was a good recap. <br>
+Primarily, one thing that was most useful to recap was the runtime/interpreter behavior of pre and post-fix operators. We had a few exercises given <br>
+regarding these which you can find within the directory of this repo: **workbook-1/src/com/pluralsight/OperatorExercises.java**. 
+They were very helpful to do because again, I forgot some of what I had learned of Java. <br>
 
 #### 🔖 Citation
 I wrote this README.md, but I did indeed use ChatGPT to give my initial framework and to learn markdown formatting. Therefore here is an APA Style Citation for it:  <br>
@@ -43,4 +46,4 @@ OpenAI. (2025). ChatGPT (Oct 1 version) [Large language model]. https://chatgpt.
 
 *I have to give credit where it's due, right?* <br>
 
-**Last Edited: 10/01/2025**
+**Last Edited: 10/07/2025**
