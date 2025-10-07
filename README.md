@@ -34,10 +34,12 @@ The workbook (PDF) containing most of the exercises cannot be uploaded due to Pl
 [Click Here](https://github.com/gitraspigner/workbook-1/commits/master)
 
 ### 💭 My Thoughts
-When I attended UW Seattle (and finished part of my *only-90%-completed bachelor's degree* which the rest was at UW Bothell) the majority of my coursework completed was in Java, given that the school primarily trained undergrads as backend developers and engineers. <br>
+- When I attended UW Seattle (and finished part of my *only-90%-completed bachelor's degree* which the rest was at UW Bothell) the majority of my coursework completed was in Java, given that the school primarily trained undergrads as backend developers and engineers. <br>
 Therefore, the majority of this coursework I found to function mostly as a recap. But I forgot some of the things I had learned so it was a good recap. <br>
-Primarily, one thing that was most useful to recap was the runtime/interpreter behavior of pre and post-fix operators. We had a few exercises given regarding these which you can find within the directory of this repo: **workbook-1/src/com/pluralsight/OperatorExercises.java**. 
+- Primarily, one thing that was most useful to recap was the runtime/interpreter behavior of pre and post-fix operators. We had a few exercises given regarding these which you can find within the directory of this repo: **workbook-1/src/com/pluralsight/OperatorExercises.java**. 
 They were very helpful to do because again, I forgot some of what I had learned of Java. <br>
+- Also, there was a fun bug I found in an exercise (not explicitly written by the instructor, no need to blame her) we did to practice writing methods. It was within the method isBossDefeated() and can be found in my repo here: **workbook-1/src/com/pluralsight/MethodMiniExercises2.java**. I included a comment within that method and the main method where all methods are tested. I thought this was pretty funny! <br>
+*There are some hardcore gamers in this class I'm in (and out there in the world) which could see would have totally found a bug like this.*
 
 #### 🔖 Citation
 I wrote this README.md, but I did indeed use ChatGPT to give my initial framework and to learn markdown formatting. Therefore here is an APA Style Citation for it:  <br>
